@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">771516674801</string>
+    <string name="google_api_key" translatable="false">AIzaSyCNAlt-9FWKWFqhMaHgul-NeHPdbwkGrh4</string>
+    <string name="google_app_id" translatable="false">1:771516674801:android:fa7f6eb552f43cfc5def50</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCNAlt-9FWKWFqhMaHgul-NeHPdbwkGrh4</string>
+    <string name="google_storage_bucket" translatable="false">phantom-63734.appspot.com</string>
+    <string name="project_id" translatable="false">phantom-63734</string>
+</resources>

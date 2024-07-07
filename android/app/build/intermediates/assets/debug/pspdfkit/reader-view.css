@@ -1,0 +1,14 @@
+:root {
+  color-scheme: light dark;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+    font-family: sans-serif;
+    font-style: normal;
+    max-width: 35em;
+    margin: 1em auto;
+    padding: 0em 1em;
+    overflow-wrap: break-word;
+}
